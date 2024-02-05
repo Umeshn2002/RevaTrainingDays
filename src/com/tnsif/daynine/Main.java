@@ -19,7 +19,7 @@ public class Main {
 		sq.calArea();
 		sq.show();
 		
-
+ 
 	}
 
 }
